@@ -1,0 +1,15 @@
+{
+  "name": "herbal-bubble-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de Herbal Bubble para la Feria de Emprendimiento 2026",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.14"
+  }
+}
